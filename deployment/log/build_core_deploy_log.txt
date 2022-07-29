@@ -1,11 +1,11 @@
-Buildfile: C:\Users\decsi\OneDrive\Documentos\Mendix\EcommerceGurucx-main\deployment\build_core.xml
+Buildfile: C:\Users\sandr\OneDrive\Documentos\Mendix\AppEcommerceGuruCX\EcommerceGurucx\deployment\build_core.xml
 
 deploy:
-     [copy] Copying 52 files to C:\Users\decsi\OneDrive\Documentos\Mendix\EcommerceGurucx-main\deployment
-     [copy] Copying 40 files to C:\Users\decsi\OneDrive\Documentos\Mendix\EcommerceGurucx-main\deployment\model\lib\userlib
-     [copy] Copying 8 files to C:\Users\decsi\OneDrive\Documentos\Mendix\EcommerceGurucx-main\deployment\model\resources
+     [copy] Copying 52 files to C:\Users\sandr\OneDrive\Documentos\Mendix\AppEcommerceGuruCX\EcommerceGurucx\deployment
+     [copy] Copying 40 files to C:\Users\sandr\OneDrive\Documentos\Mendix\AppEcommerceGuruCX\EcommerceGurucx\deployment\model\lib\userlib
+     [copy] Copying 8 files to C:\Users\sandr\OneDrive\Documentos\Mendix\AppEcommerceGuruCX\EcommerceGurucx\deployment\model\resources
 
 BUILD SUCCESSFUL
-Total time: 1 second
+Total time: 0 seconds
 
 
